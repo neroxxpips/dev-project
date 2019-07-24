@@ -1,0 +1,18 @@
+.b-container {
+  background-image: url('/assets/comp-front.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: auto;
+  width: 100%;
+  margin-top: 0px;
+  text-align: center;
+  background-color: white;
+
+}
+#position {
+  margin-top: 350px;
+  margin-bottom: 50px;
+}
+h1 {
+  font-family: 'Butcherman', cursive;
+}
